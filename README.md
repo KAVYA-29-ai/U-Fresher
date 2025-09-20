@@ -90,19 +90,7 @@ npm install
 ### 4. **Configure Environment Variables**
 Create a `.env.local` file:
 ```env
-# Supabase Configuration
-VITE_SUPABASE_URL=https://your-project-ref.supabase.co
-VITE_SUPABASE_ANON_KEY=your-anon-key
 
-# Admin Configuration
-VITE_ADMIN_CODE=Createrkkrishavya
-
-# Gemini AI Configuration (optional)
-VITE_GEMINI_API_KEY=your-gemini-api-key
-
-# Enable/Disable content moderation
-VITE_ENABLE_MODERATION=true
-```
 
 ### 5. **Start Development Server**
 ```bash
